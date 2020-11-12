@@ -17,7 +17,7 @@ var filenameProto = __dirname + '/../src/cpp/ripple/SerializeProto.h',
 
 var fs = require('fs');
 
-var output = [];
+var output = []; 
 
 // Stage 1: Get the field types and codes from SerializeProto.h
 var types = {},
