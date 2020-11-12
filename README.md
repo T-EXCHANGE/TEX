@@ -18,10 +18,10 @@ The bottom layer uses the latest cross-chain and side-chain integration methods 
 Using the POS+DPBFT combined consensus algorithm, the consensus ledger record can be completed in as fast as 1s, and the TPS is as high as one million.
 
 
-Official website: https://www.tex.co
+Official website: https://www.texchange.co
 
-Blockchain Browser: https://explorer.tex.co
+Blockchain Browser: https://explorer.texchange.co
 
 Open source address: https://github.com/T-EXchange
 
-TEX Tribal Email: community@tex.co
+TEX Tribal Email: community@texchange.co
