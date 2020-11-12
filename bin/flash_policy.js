@@ -12,7 +12,7 @@
 
 var net	    = require("net"),
     port    = "*",
-    domains = ["*:"+port]; // Domain:Port
+    domains = ["*:"+port]; // Domain:Port 
 
 net.createServer(
   function(socket) {
