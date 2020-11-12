@@ -9,7 +9,7 @@ var remote = ripple.Remote.from_config({
   "trusted" : true,
   "websocket_ip" : "127.0.0.1",
   "websocket_port" : 5006,
-  "websocket_ssl" : false,
+  "websocket_ssl" : false, 
   "local_signing" : true
 });
 
