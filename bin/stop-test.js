@@ -128,6 +128,6 @@ console.log("Test will take ~%s seconds", timeTakes(testRange));
           process.exit();
         };
       });
-    }
+    } 
   })
 }(testRange[0], []));
