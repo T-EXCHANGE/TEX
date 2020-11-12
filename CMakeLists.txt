@@ -12,7 +12,7 @@ include (ExternalProject)
 include (CMakeFuncs) # must come *after* ExternalProject b/c it overrides one function in EP
 include (ProcessorCount)
 if (target)
-  message (WARNING
+  message (WARNING 
     "The target option is deprecated and will be removed in a future release")
   parse_target()
 endif ()
