@@ -61,7 +61,7 @@ then
     ${rippled_exe} --conf ${conf_file} \
     -- server_info                  > ${tmp_loc}/server_info.txt
 fi
-
+ 
 df -h                               > ${tmp_loc}/free_disk_space.txt
 cat /proc/meminfo                   > ${tmp_loc}/amount_mem.txt
 cat /proc/swaps                     > ${tmp_loc}/swap_space.txt
